@@ -24,9 +24,9 @@ tags: server nginx
    server 下的root 适用于所有的不包括root指令的location
    autoindex 指令　on是开启目录　off 是关闭目录
 2. index指令
-   
    如果request以／结尾，nginx 将视为在对应的目录下寻找所需的index文件,
-   这个index 指令定义了index文件的名字（默认情况下是index.html) 
+   这个index 指令定义了index文件的名字（默认情况下是index.html),在返回
+　 index 文件过程中，niginx 会检查文件的存在性然后内部重定向。 
 　 location / {
 	root /www/data;
 	index index.htm index.html index.php;

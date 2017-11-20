@@ -41,9 +41,12 @@ tags: nginx cache
 
     定义那些请求的缓存响应不发给请求端
 　　proxy_cache_bypass  $cookie_noche $arg_nocache$arg_comment;
+    只有以上三个变量　全部为０的时候，才会查取缓存。
+    如果有一个变量不为零，则不查取缓存，调用服务器。
 	
     定义那些请求的响应不接受缓存
-　　proxy_no_cache $http_progma $http_authorization
+　　proxy_no_cache $http_progma $http_authorization;
+    
     
     清除缓存
     在http　水平上设置

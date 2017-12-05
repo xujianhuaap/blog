@@ -29,4 +29,8 @@ tags: JavaScript
 	d> var person1 = Object.create(person);
 3. javascript 是基于原型的语言 prototype-based
 	原型链
+	每一个Object,都有constructor (有的Object
+	定义以constructot 形式展现）基于原型的属性
+	是可以被继承的，基于this的属性不能被继承
 4. Function 方法也是一种Object;
+```

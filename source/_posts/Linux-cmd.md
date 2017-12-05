@@ -16,6 +16,21 @@ tags: linux-cmd
    -u udp
 4. ps -aux 正在运行的进程(BSD-style)
    ps -ef (standard)
+5. ln -s target link_name
+   创建一个名为link_name,指向target(可以是文件或者目录）的软连接
+   ln -t dir target
+   在dir目录下创建一个target(文件）的硬连接
+   ln -L target link_name 
+   创建一个名为link_name 指向target(文件）的硬连接
+   软连接在target失去的时候，也会失去作用
+   硬连接在target 失去的时候不会失去作用，硬连接的target只能是文件
+6. whereis 
+   whereis -b filename
+   whereis 查找特定位置的文件或者文件夹（/usr/bin /usr/local/bin /usr/local/lib等)
+   -b 二进制
+   -s 源文件
+   -m manual 文件
+
 ```
 
 

@@ -31,6 +31,10 @@ tags: linux-cmd
    -s 源文件
    -m manual 文件
 
+7. mkfs.fat 创建一个基于Linux环境的MS-Dos 文件系统,MS-Dos 是一个磁盘操作系统
+   mkfs.fat [option] device [block-count]
+   [option】-c 检查是否有损坏的区
+   mkfs.fat -c /dev/sdb1
 ```
 
 

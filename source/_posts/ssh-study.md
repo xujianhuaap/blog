@@ -25,4 +25,6 @@ scp
  scp 选项
 	－P 端口
 	
+ssh-copy-id user@remote_address 
+	复制本地的.ssh/id_rsa.pub 到远端的.ssh/authorized_keys
 ```

@@ -21,6 +21,8 @@ tags: mysql
   chown root:root ./
   chown mysql:mysql data
 5. 启动server
+   ./scripts/mysql_install_db
+   ./bin/mysqladmin -u root -h xujianhua-ThinkPad-T450 -p password
   .suport_files/mysql.server start //启动mysql    
    如果失败查看是否已经有运行的进程
 	ps -aux | grep mysql

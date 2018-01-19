@@ -1,7 +1,7 @@
 ---
 title: android-event-dispatch
 date: 2018-01-17 17:12:47
-tags: android_event_dispatch
+tags: android_application_event_dispatch
 ---
 ```
 1. touch event 事件的分发

@@ -1,6 +1,6 @@
 title: go_beego_study
 date: 2016-06-06 17:22:54
-tags: go beego
+tags: go_beego
 ---
 ```
 1. beego 基于MVC的Web后端开发框架---路由正则注册

@@ -1,6 +1,7 @@
 title: 设计模式-MVP
 date: 2015-12-29 17:30:51
-tags: MVP
+tags: design_mode_mvp
+
 ---
 # 1.MVP设计模式的基本特点
 view层负责展示

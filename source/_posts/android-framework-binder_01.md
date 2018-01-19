@@ -1,6 +1,6 @@
-title: andoroid-application-binder
+title: andoroid-framework-binder
 date: 2016-01-26 16:49:27
-tags: binder
+tags: android_framework_binder
 ---
 1.  参考文件
 ```

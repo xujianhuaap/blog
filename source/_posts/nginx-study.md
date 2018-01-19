@@ -1,7 +1,7 @@
 ---
 title: nginx-study
 date: 2017-11-14 21:29:52
-tags: server nginx
+tags: nginx_server
 ---
 ```
 1> nginx 作为反向代理服务器

@@ -1,7 +1,7 @@
 ---
 title: svg_study
 date: 2017-12-29 11:45:38
-tags: svg
+tags: svg_basic
 ---
 ```
 1. <svg version="1.1" xmlns="http://www.w3.org/svg"

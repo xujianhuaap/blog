@@ -1,6 +1,6 @@
 title: android-application-handler
 date: 2016-01-27 13:01:32
-tags: handler
+tags: android_application_handler
 ---
 1. 参考文件
 ```

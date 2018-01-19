@@ -1,6 +1,6 @@
 title: android_framework_binder_common_class
 date: 2016-01-15 17:09:28
-tags: binder
+tags: android_framework_binder
 ---
 1.  参考文件
 2.  ProcessState的介绍

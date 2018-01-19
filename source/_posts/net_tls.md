@@ -1,7 +1,7 @@
 ---
 title: openSSl
 date: 2017-12-08 17:38:39
-tags: TLS
+tags: net_tls
 ---
 ```
 1. TLS (传输层安全）是SSL的接任者, 目的是实现网络通信双方的数据加密和完整性。

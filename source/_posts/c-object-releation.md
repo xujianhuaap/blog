@@ -1,7 +1,7 @@
 ---
 title: C-Object
 date: 2017-11-07 21:40:21
-tags: C Object
+tags: c_object_releation
 ---
 ```
 1. 面向对象编程

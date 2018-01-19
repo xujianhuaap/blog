@@ -1,7 +1,7 @@
 ---
 title: linux-reinstall
 date: 2017-12-06 15:36:38
-tags: usb-booter
+tags: linux_reinstall
 ---
 ```
 1. 准备的材料u盘 iso文件

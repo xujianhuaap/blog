@@ -1,7 +1,7 @@
 ---
 title: ssh-study
 date: 2017-11-22 22:37:52
-tags: ssh scp
+tags: ssh_cmd
 ---
 ```
 ssh 远程登陆，基于c/s 架构

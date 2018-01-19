@@ -1,6 +1,6 @@
 title: android-frameworks
 date: 2016-02-13 11:27:38
-tags: java thread
+tags: java_thread
 ---
 ```
 1. Thread 线程是进程的组成单元，一个进程由一个或多个线程组成，而每个线程通常代表一个任务．

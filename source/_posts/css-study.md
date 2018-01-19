@@ -1,7 +1,7 @@
 ---
 title: css-study
 date: 2017-11-09 21:17:18
-tags: css
+tags: css_flex_box
 ---
 
 ```

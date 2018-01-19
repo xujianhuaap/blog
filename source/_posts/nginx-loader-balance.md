@@ -1,7 +1,7 @@
 ---
 title: nginx-loader_balance
 date: 2017-11-20 22:06:11
-tags: nginx loader_balance
+tags: nginx_loader_balance
 ---
 ```
 1. 负载均衡设置

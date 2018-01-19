@@ -1,6 +1,6 @@
 title: android-application-customer-view
 date: 2016-02-26 18:17:59
-tags: motion_event multify_touch
+tags: android_application_customer_view
 ---
 ```
 1. View layout有两个过程，一个measure,另一个是layout,其中measure主要是测量View以及子

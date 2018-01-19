@@ -1,6 +1,6 @@
 title: android_framework_setContentView
 date: 2016-01-12 21:29:41
-tags: set_content_view
+tags: android_framework_set_content_view
 ---
 1.  参考文件
 ```

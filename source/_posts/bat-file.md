@@ -1,6 +1,6 @@
 title: bat-file
 date: 2016-01-04 13:05:41
-tags: .bat
+tags: bat
 ---
 
 1. what is bat file

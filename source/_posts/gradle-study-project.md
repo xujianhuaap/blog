@@ -1,6 +1,6 @@
 title: gradle-study-project
 date: 2016-04-15 17:41:34
-tags: gradle Project
+tags: gradle_project
 ---
 1. gradle 是一个强大的构建工具，其中主要立足于project这个对象进行构建。
 project在这里不仅指工程本身，而还包括编译，打包，签名，上传，等多个任务。

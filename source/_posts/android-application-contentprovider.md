@@ -1,6 +1,6 @@
 title: android-application-contentprovider
 date: 2016-01-25 20:27:59
-tags: content_provider
+tags: android_application_content_provider
 ---
 1.  参考文件
 ```

@@ -1,6 +1,6 @@
 title: android-frameworks-binder-ipc_thread_state
 date: 2016-01-18 15:48:49
-tags: binder
+tags: android_framework_binder
 ---
 1.  参考的文件
 ```

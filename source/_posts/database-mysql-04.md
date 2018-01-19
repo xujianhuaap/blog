@@ -1,6 +1,6 @@
 title: database_mysql_04
 date: 2017-08-13 20:24:39
-tags: mysql
+tags: database_mysql
 ---
 ```
 1. 联表查询

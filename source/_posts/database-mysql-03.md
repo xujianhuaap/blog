@@ -1,6 +1,6 @@
 title: database-mysql-study-03
 date: 2017-01-16 11:20:18
-tags: mysql table
+tags: database_mysql_table
 ---
 ```
 table

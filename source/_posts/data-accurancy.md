@@ -1,6 +1,6 @@
 title: data_accurancy
 date: 2015-12-18 00:07:28
-tags: float
+tags: data_accurancy
 ---
 
 浮点数据的表示

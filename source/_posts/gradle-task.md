@@ -1,6 +1,6 @@
 title: gradle_task
 date: 2016-01-05 17:33:03
-tags: gradle Task
+tags: gradle_task
 ---
 
 1.Task

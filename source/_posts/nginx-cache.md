@@ -1,7 +1,7 @@
 ---
 title: nginx-cache
 date: 2017-11-20 10:28:24
-tags: nginx cache
+tags: nginx_cache
 ---
 ```
 1. 开启响应的缓存配置

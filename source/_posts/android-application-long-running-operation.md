@@ -1,6 +1,6 @@
 title: android-application-long-running-operation
 date: 2016-02-20 07:45:07
-tags: long_running_operation
+tags: android_application_long_running_operation
 ---
 ```
 1. 耗时操作在android你会想起什么，Service Thread Asynctask,它们的区别又是什么？

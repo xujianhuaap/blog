@@ -1,6 +1,6 @@
 title: android_frameworks_binder
 date: 2016-01-15 09:54:43
-tags: binder
+tags: android_framework_binder
 ---
 1.  RefBase 指针管理公共类,提供引用计数的方法,但由StrongPointer和WeakPointer来管理.
 ```

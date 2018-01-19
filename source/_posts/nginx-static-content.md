@@ -1,7 +1,7 @@
 ---
 title: nginx-static_content
 date: 2017-11-16 19:14:05
-tags: server nginx 
+tags: nginx_server
 ---
 ```
 1. root 指令

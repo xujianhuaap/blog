@@ -1,6 +1,6 @@
 title: mysql_study_2
 date: 2016-12-20 16:45:53
-tags: mysql
+tags: database_mysql
 ---
 ```
 1. 数据类型

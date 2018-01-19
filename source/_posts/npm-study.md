@@ -1,7 +1,7 @@
 ---
 title: npm-study
 date: 2017-11-21 18:25:12
-tags: npm 
+tags: npm_cmd
 ---
 # npm 简介
 npm 可以使js开发者分享和重利用代码更为容易，并且更新要分享的代码也更为容易

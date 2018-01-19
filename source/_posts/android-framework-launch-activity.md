@@ -1,6 +1,6 @@
 title: Activity 启动
 date: 2016-01-12 15:50:54
-tags: launch_activity
+tags: android_framework_launch_activity
 ---
 
 1.  参考文件

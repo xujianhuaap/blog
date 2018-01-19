@@ -1,6 +1,6 @@
 title: java_jvm_gc
 date: 2016-03-13 20:08:36
-tags: Java jvm GC
+tags: java_jvm_gc
 ---
 ```
 GC主要用于回收Java Heap中的对象实例，如何判断那些对象需要回收呢，JVM使用的是可达性分析法，

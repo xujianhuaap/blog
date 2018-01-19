@@ -1,7 +1,7 @@
 ---
 title: Python-install
 date: 2017-12-04 23:29:53
-tags: python-install
+tags: python_install
 ---
 ```
 1. wget https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tar.xz

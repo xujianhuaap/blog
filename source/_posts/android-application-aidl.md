@@ -1,6 +1,6 @@
 title: android-application-aidl
 date: 2016-01-27 09:29:56
-tags: aidl
+tags: android_application_aidl
 ---
 1.  参考文件
 ```

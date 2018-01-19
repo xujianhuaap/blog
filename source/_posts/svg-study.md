@@ -1,7 +1,7 @@
 ---
 title: svg-study
 date: 2017-12-13 21:40:49
-tags: svg
+tags: svg_basic
 ---
 ```
 1. svg 可缩放矢量位图,是基于xml的2维图像.

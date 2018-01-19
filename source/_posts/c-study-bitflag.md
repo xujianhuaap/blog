@@ -1,7 +1,7 @@
 ---
 title: c_study_bitflag
 date: 2017-11-03 18:58:01
-tags: c++
+tags: c_bitflag
 ---
 ```
 1. bitflag 

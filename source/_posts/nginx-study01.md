@@ -1,7 +1,7 @@
 ---
 title: nginx-webserver
 date: 2017-11-15 17:25:22
-tags: server nginx
+tags: nginx_server
 ---
 ```
 　1>WebServer

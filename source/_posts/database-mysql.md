@@ -1,6 +1,6 @@
 title: database_mysql
 date: 2015-12-18 00:17:35
-tags: database mysql
+tags: database_mysql
 ---
 
 mysql 用户管理和授权

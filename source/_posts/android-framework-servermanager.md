@@ -1,6 +1,6 @@
 title: android-frameworks-servermanager
 date: 2016-01-19 17:44:25
-tags: servermanager
+tags: android_framework_servermanager
 ---
 1.  参考文件
 ```

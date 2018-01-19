@@ -1,6 +1,6 @@
 title: C++operator
 date: 2016-01-19 10:50:06
-tags: C++
+tags: c_operator
 ---
 1.  参考文件
 ```

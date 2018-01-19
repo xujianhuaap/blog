@@ -1,6 +1,6 @@
 title: java_study_jvm
 date: 2016-02-19 09:37:42
-tags: java jvm
+tags: java_jvm
 ---
 ```
 1. jvm java虚拟机使java这门高级语言实现了跨平台性．jvm将字节码转换成具体平台的机器代码．

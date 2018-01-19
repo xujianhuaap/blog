@@ -1,6 +1,6 @@
 title: gradle_study
 date: 2015-12-18 00:03:43
-tags: gradle
+tags: gradle_study
 ---
 
 gradle_study

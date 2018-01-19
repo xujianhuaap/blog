@@ -1,6 +1,6 @@
 title: android-frameworks-launchactivity01
 date: 2016-01-25 11:18:44
-tags: launch_activity
+tags: android_framework_launch_activity
 ---
 1. 参考文件
 ```

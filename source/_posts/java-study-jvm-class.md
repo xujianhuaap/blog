@@ -1,7 +1,7 @@
 ---
 title: java-study-class
 date: 2018-01-15 09:42:20
-tags: java jvm class_struct
+tags: java_jvm_class_struct
 ---
 ```
 1. class的结构组成

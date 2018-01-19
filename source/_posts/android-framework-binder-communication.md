@@ -1,6 +1,6 @@
 title: android_frameworks_binder_communication
 date: 2016-01-15 15:08:22
-tags: binder
+tags: android_framework_binder
 ---
 1.  参考文件
 ```

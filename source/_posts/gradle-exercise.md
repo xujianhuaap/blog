@@ -1,6 +1,6 @@
 title: gradle-exercise
 date: 2016-01-07 17:48:01
-tags: gradle proguard
+tags: gradle_proguard
 ---
 
 build.gradle

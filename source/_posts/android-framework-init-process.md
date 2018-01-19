@@ -1,6 +1,6 @@
 title: android_framework_init_process
 date: 2016-01-12 13:18:05
-tags: android init_process
+tags: android_framework_init_process
 ---
 所涉及到的文件路径
 ```

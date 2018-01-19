@@ -1,6 +1,6 @@
 title: android-application-parcelable
 date: 2016-01-26 20:18:46
-tags: Parcelable
+tags: android_application_parcelable
 ---
 1.  参考文件
 ```

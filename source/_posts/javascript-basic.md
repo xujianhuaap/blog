@@ -1,7 +1,7 @@
 ---
 title: ECMAScript-Study
 date: 2017-12-02 20:27:46
-tags: JavaScript_basic
+tags: javascript_basic
 ---
 ```
 1. 基本数据类型

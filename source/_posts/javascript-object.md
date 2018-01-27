@@ -1,7 +1,7 @@
 ---
 title: JavaScript
 date: 2017-12-03 23:46:51
-tags: JavaScript
+tags: javascript
 ---
 ```
 1. Object_Oriented Programming (oop)
